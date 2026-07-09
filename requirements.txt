@@ -1,0 +1,7 @@
+pillow
+colorama
+psutil
+pywin32
+keyboard
+pydirectinput
+requests
